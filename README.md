@@ -1,4 +1,4 @@
-#Dungeon-Game-2.0
+# Dungeon-Game-2.0
 a cool game i made with javascript
 
-V2.1, 2/12/25
+V2.1,
